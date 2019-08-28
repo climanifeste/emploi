@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "fr-FR" }}">
+  <head>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/png" href="/images/logo-transparent.png" />
+    
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@climanifeste">
+    <meta name="twitter:creator" content="@climanifeste">
+    <meta name="twitter:title" content="climanifeste">
+    <meta name="twitter:description" content="Manifeste écologique des professionnel·le·s de l'informatique">
+    <meta name="twitter:image" content="https://climanifeste.github.io/github-pages-poc/images/logo-transparent.png">
+
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    
+    <title>Manifeste écologique des professionnel·le·s de l’informatique</title>
+    
+    <style>
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      
+      div.github-stars {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 25px;
+      }
+    </style>  
+    
+  </head>
+
+  <body>
+    <div class="container">
+      <section id="main_content">       
+        {{ content }}
+      </section>
+      
+      <div class="github-stars">
+        <a class="github-button" href="https://github.com/climanifeste/climanifeste" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star climanifeste/climanifeste on GitHub">Star</a>      
+      </div>
+    </div>
+   
+  </body>
+  
+  
+</html>
