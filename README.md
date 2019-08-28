@@ -11,7 +11,7 @@ Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/e
 ### Yuka
 alimentation / santé - [yuka.io](https://yuka.io/)
 
-* Développeur iOS Swift, Xcode, Firebase...
+* [Développeur iOS](https://www.welcometothejungle.co/fr/companies/yuka/jobs) Swift, Xcode, Firebase...
 
 *Offre répertoriée le 24/07/2019*
 
