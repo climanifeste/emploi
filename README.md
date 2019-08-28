@@ -22,13 +22,8 @@ alimentation / santé - [yuka.io](https://yuka.io/)
 
 Les premières entreprises répertoriées proviennent du fichier [262 entreprises écologiques françaises pour trouver un emploi qui a du sens](https://www.earthy.fr/blog/262-entreprises-ecologiques-francaises-pour-trouver-un-emploi-qui-a-du-sens) créé par [earthy](https://www.earthy.fr/), la WebTV des entrepreneurs qui innovent pour la planète. Merci à eux !
 
-Vous trouverez également d'autres offres d'emploi à plus-value écologique ou sociale sur les sites suivants :
+Vous trouverez également d'autres offres d'emploi à vocation écologique ou sociale sur les sites suivants :
 
-### Makesense
-
-[https://jobs.makesense.org/](https://jobs.makesense.org/)
-
-### beta.gouv.fr
-
-[https://beta.gouv.fr/recrutement/](https://beta.gouv.fr/recrutement/)
+* Makesense - [https://jobs.makesense.org/](https://jobs.makesense.org/)
+* beta.gouv.fr - [https://beta.gouv.fr/recrutement/](https://beta.gouv.fr/recrutement/)
 
