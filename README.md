@@ -17,11 +17,11 @@ alimentation / santé - [yuka.io](https://yuka.io/)
 
 ---
 
-## Autres entreprisent 
+## Autres entreprises
 
 Les entreprises ci-dessous recrutent également :
 
-* [Yuka](https://yuka.io/) - alimentation / santé 
+* [Yuka](https://yuka.io/) : alimentation / santé 
  
 
 ## Pour aller plus loin
