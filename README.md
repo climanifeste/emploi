@@ -17,6 +17,8 @@ alimentation / santé - [yuka.io](https://yuka.io/)
 
 *Offre répertoriée le 24/07/2019*
 
+---
+
 
 ## Pour aller plus loin
 
