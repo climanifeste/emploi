@@ -1,5 +1,3 @@
-![Climanifeste logo](/images/logo-transparent.png)
-
 # Climanifeste emploi
 
 [Refuser de travailler pour les entreprises responsables du réchauffement climatique](https://www.climanifeste.net), c'est bien, mais alors on travaille pour qui ? Voici quelques entreprises à vocation écologique qui recrutent dans l'informatique.
