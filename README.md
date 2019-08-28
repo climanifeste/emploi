@@ -6,7 +6,7 @@
 
 ## Offres d'emploi
 
-Une offre d'emploi à proposer ? Cliquez-ici pour créer une pull request sur GitHub. 
+Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour créer une pull request sur GitHub. 
 
 ---
 
