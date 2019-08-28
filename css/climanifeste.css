@@ -18,62 +18,11 @@ h3 {
   font-size: small;
 }
 
-.nom-champ {
-  font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
-  letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0,0,0,0.1),0 0 5px rgba(181,232,83,0.1),0 0 10px rgba(181,232,83,0.1);        
-  margin-bottom : 0px;
+hr {
+ margin-top: 30px;   
+ margin-top: 20px;   
 }
 
-.champ {
-  margin-top: 2px;
-  margin-bottom : 2px;
-}
-
-.champ input {
-  height: 20px;
-  margin-top: 0px;
-  width: 100%;
-  max-width: 400px;
-}
-
-.champ button {
-  height: 40px;
-  widows: 60px;
-  font-size: 110%;
-  background: transparent;
-  border-color: #63c0f5;
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104,182,255,0.5);
-  margin-top : 10px;
-  margin-bottom: 20px;
-}
-
-#climanifeste-emploi{
-  margin-top: 50px;
-}
-
-.entreprise {
-  margin-bottom: 30px;
-  border-bottom-style: dotted;
-  border-bottom-color: #b5e853; 
-  padding: 10px 10px 10px 10px;
-}
-
-.nom-entreprise{
-  color: #b5e853;
-  font-size: large;
-  margin-bottom: 10px;
-}
-
-.nom-entreprise-liste{
-  color: #b5e853;
-}
-
-.date-offre {
-  margin-bottom: 30px;
-  font-style: italic;
-  font-size: small;
+em {
+    font-size: small;
 }
