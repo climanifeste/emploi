@@ -26,6 +26,11 @@ Les premières entreprises répertoriées proviennent du fichier 262 entreprises
 
 Vous trouverez également d'autres offres d'emploi à plus-value écologique ou sociale sur les sites suivants :
 
-Makesense : [https://jobs.makesense.org/](https://jobs.makesense.org/)
-beta.gouv.fr : [https://beta.gouv.fr/recrutement/](https://beta.gouv.fr/recrutement/)
+### Makesense
+
+[https://jobs.makesense.org/](https://jobs.makesense.org/)
+
+### beta.gouv.fr
+
+[https://beta.gouv.fr/recrutement/](https://beta.gouv.fr/recrutement/)
 
