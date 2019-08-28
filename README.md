@@ -17,6 +17,12 @@ alimentation / santé - [yuka.io](https://yuka.io/)
 
 ---
 
+## Autres entreprisent 
+
+Les entreprises ci-dessous recrutent également :
+
+* [Yuka](https://yuka.io/) - alimentation / santé 
+ 
 
 ## Pour aller plus loin
 
@@ -24,6 +30,6 @@ Les premières entreprises répertoriées proviennent du fichier [262 entreprise
 
 Vous trouverez également d'autres offres d'emploi à vocation écologique ou sociale sur les sites suivants :
 
-* Makesense - [https://jobs.makesense.org/](https://jobs.makesense.org/)
-* beta.gouv.fr - [https://beta.gouv.fr/recrutement/](https://beta.gouv.fr/recrutement/)
+* [Makesense](https://jobs.makesense.org/)
+* [beta.gouv.fr](https://beta.gouv.fr/recrutement/)
 
