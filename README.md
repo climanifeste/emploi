@@ -6,7 +6,8 @@
 
 ## Offres d'emploi
 
-Une offre d'emploi à proposer ? Cliquez-ici pour créer une pull request sur GitHub.
+Une offre d'emploi à proposer ? Cliquez-ici pour créer une pull request sur GitHub. 
+
 ---
 
 ### Yuka
