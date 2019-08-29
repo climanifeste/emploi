@@ -21,7 +21,7 @@ alimentation / circuits courts
 
 Les entreprises ci-dessous recrutent également :
 
-* [Yuka](https://yuka.io/) : alimentation / santé 
+* [Yuka](https://www.welcometothejungle.co/fr/companies/yuka) : alimentation / santé 
  
 
 ## Pour aller plus loin
