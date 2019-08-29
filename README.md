@@ -9,7 +9,7 @@ Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/e
 ---
 
 ### La Ruche qui dit Oui !
-alimentation / circuits courts - [https://nous.laruchequiditoui.fr/](site)
+alimentation / circuits courts
 
 * [Développeur·se Sympfony / Senior (F/H)](https://la-ruche-qui-dit-oui.welcomekit.co/jobs/developpeur-php-symfony-lead-ou-senior-h-f_paris) REST, PostgreSQL, ElasticSearch...
 
