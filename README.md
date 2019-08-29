@@ -8,12 +8,12 @@ Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/e
 
 ---
 
-### Yuka
-alimentation / santé - [yuka.io](https://yuka.io/)
+### La Ruche qui dit Oui !
+alimentation / circuits courts - [https://nous.laruchequiditoui.fr/](site)
 
-* [Développeur iOS](https://www.welcometothejungle.co/fr/companies/yuka/jobs) Swift, Xcode, Firebase...
+* [Développeur·se Sympfony / Senior (F/H)](https://la-ruche-qui-dit-oui.welcomekit.co/jobs/developpeur-php-symfony-lead-ou-senior-h-f_paris) REST, PostgreSQL, ElasticSearch...
 
-*Offre répertoriée le 24/07/2019*
+*Offre répertoriée le 28/08/2019*
 
 ---
 
