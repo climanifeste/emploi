@@ -7,13 +7,26 @@
 Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour créer une pull request sur GitHub. 
 
 ---
+### Backmarket
+vente en ligne de produits reconditionnés
+
+
+[Product Designer, Product Owner, Product Manager, Front-End Engineer, QA Engineer, Data Engineer, Data Analyst, Back-End Engineer, Engineering Manager, Web Analyst...](https://jobs.backmarket.fr/departments/tech-product) 
+
+Stack : Python, Go, Django, VueJs, Algolia, Docker, AWS...
+
+*Offres répertoriées le 11/09/2019*
+
+---
 
 ### La Ruche qui dit Oui !
 alimentation / circuits courts
 
-* [Développeur·se Sympfony / Senior (F/H)](https://la-ruche-qui-dit-oui.welcomekit.co/jobs/developpeur-php-symfony-lead-ou-senior-h-f_paris) REST, PostgreSQL, ElasticSearch...
+[Développeur·se Sympfony / Senior (F/H)](https://la-ruche-qui-dit-oui.welcomekit.co/jobs/developpeur-php-symfony-lead-ou-senior-h-f_paris) 
 
-*Offre répertoriée le 28/08/2019*
+Stack : PHP, PostgreSQL, ElasticSearch, React/Redux, Docker...
+
+*Offre répertoriée le 11/09/2019*
 
 ---
 
