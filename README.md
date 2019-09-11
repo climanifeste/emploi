@@ -13,7 +13,7 @@ vente en ligne de produits reconditionnés
 
 * [Product Designer, Product Owner, Product Manager, Front-End Engineer, QA Engineer, Data Engineer, Data Analyst, Back-End Engineer, Engineering Manager, Web Analyst...](https://jobs.backmarket.fr/departments/tech-product) 
 
-Stack : Python, Go, Django, VueJs, Algolia, Docker, AWS...
+Stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go...
 
 *Offres répertoriées le 11/09/2019*
 
