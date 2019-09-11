@@ -11,7 +11,7 @@ Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/e
 vente en ligne de produits reconditionnés
 
 
-[Product Designer, Product Owner, Product Manager, Front-End Engineer, QA Engineer, Data Engineer, Data Analyst, Back-End Engineer, Engineering Manager, Web Analyst...](https://jobs.backmarket.fr/departments/tech-product) 
+* [Product Designer, Product Owner, Product Manager, Front-End Engineer, QA Engineer, Data Engineer, Data Analyst, Back-End Engineer, Engineering Manager, Web Analyst...](https://jobs.backmarket.fr/departments/tech-product) 
 
 Stack : Python, Go, Django, VueJs, Algolia, Docker, AWS...
 
@@ -22,7 +22,7 @@ Stack : Python, Go, Django, VueJs, Algolia, Docker, AWS...
 ### La Ruche qui dit Oui !
 alimentation / circuits courts
 
-[Développeur·se Sympfony / Senior (F/H)](https://la-ruche-qui-dit-oui.welcomekit.co/jobs/developpeur-php-symfony-lead-ou-senior-h-f_paris) 
+* [Développeur·se Sympfony / Senior (F/H)](https://la-ruche-qui-dit-oui.welcomekit.co/jobs/developpeur-php-symfony-lead-ou-senior-h-f_paris) 
 
 Stack : PHP, PostgreSQL, ElasticSearch, React/Redux, Docker...
 
