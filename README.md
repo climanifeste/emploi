@@ -26,7 +26,7 @@ alimentation / circuits courts
 
 Stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architecture hexagonale...
 
-*Offre répertoriée le 11/09/2019*
+*Offres répertoriées le 11/09/2019*
 
 ---
 
