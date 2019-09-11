@@ -22,7 +22,7 @@ Stack : Python, Go, Django, VueJs, Algolia, Docker, AWS...
 ### La Ruche qui dit Oui !
 alimentation / circuits courts
 
-* [Développeur·se Symfony, Développeur-développeuse-back-end](https://la-ruche-qui-dit-oui.welcomekit.co/departments/tech) 
+* [Développeur·se Symfony, Développeur / développeuse back-end](https://la-ruche-qui-dit-oui.welcomekit.co/departments/tech) 
 
 Stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architecture hexagonale...
 
