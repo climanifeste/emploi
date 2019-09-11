@@ -22,9 +22,9 @@ Stack : Python, Go, Django, VueJs, Algolia, Docker, AWS...
 ### La Ruche qui dit Oui !
 alimentation / circuits courts
 
-* [Développeur·se Sympfony / Senior (F/H)](https://la-ruche-qui-dit-oui.welcomekit.co/jobs/developpeur-php-symfony-lead-ou-senior-h-f_paris) 
+* [Développeur·se Sympfony, Développeur-développeuse-back-end](https://la-ruche-qui-dit-oui.welcomekit.co/departments/tech) 
 
-Stack : PHP, PostgreSQL, ElasticSearch, React/Redux, Docker...
+Stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architecture hexagonale...
 
 *Offre répertoriée le 11/09/2019*
 
