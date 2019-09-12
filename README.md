@@ -7,13 +7,26 @@
 Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour créer une pull request sur GitHub. 
 
 ---
+### [Back Market](https://www.backmarket.fr/)
+vente en ligne de produits reconditionnés
 
-### La Ruche qui dit Oui !
+
+* [Product Designer, Product Owner, Product Manager, Front-End Engineer, QA Engineer, Data Engineer, Data Analyst, Back-End Engineer, Engineering Manager, Web Analyst...](https://jobs.backmarket.fr/departments/tech-product) 
+
+stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go...
+
+*Offres répertoriées le 11/09/2019*
+
+---
+
+### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
-* [Développeur·se Sympfony / Senior (F/H)](https://la-ruche-qui-dit-oui.welcomekit.co/jobs/developpeur-php-symfony-lead-ou-senior-h-f_paris) REST, PostgreSQL, ElasticSearch...
+* [Développeur·se Symfony, Développeur / développeuse back-end](https://la-ruche-qui-dit-oui.welcomekit.co/departments/tech) 
 
-*Offre répertoriée le 28/08/2019*
+stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architecture hexagonale...
+
+*Offres répertoriées le 11/09/2019*
 
 ---
 
