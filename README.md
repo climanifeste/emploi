@@ -19,7 +19,7 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
-### Biocoop
+### [Biocoop](https://www.biocoop.fr/)
 magasins bio
 
 * [Concepteur développeur informatique H/F](https://www.biocoop.fr/Biocoop/recrutement/nos-offres-d-emplois?offer_type=biocoop_job_offer&contract_type=&direction=6066)
