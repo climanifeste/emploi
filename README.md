@@ -35,6 +35,15 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'avaient pas d'offre à pourvoir lors de notre dernière vérification. Si cela a changé, [cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour ajouter une offre en créant une pull request sur GitHub.
 
 ---
+
+### [Live for Good](https://live-for-good.org/fr/)
+accompagnement d'entrepreneurs à impact social
+
+* [Consulter la page emploi de Live for Good](http://www.fuyonsladefense.com/entreprise-qui-recrute/Live+for+Good)
+
+stack : Javascript full stack, SQL, NoSql...
+
+---
 ### [Yuka](https://www.welcometothejungle.co/fr/companies/yuka)
 
 alimentation / santé 
