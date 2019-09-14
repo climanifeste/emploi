@@ -19,6 +19,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Hydroption](http://hydroption.com/)
+fournisseur d'électricité verte pour entreprises et collectivités
+
+* [développeur informatique (F/H) ](http://hydroption.com/blog/category/offres-emploi-stage/)
+
+stack : Python, Django, Javascript, Ember.js...
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
