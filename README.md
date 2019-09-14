@@ -19,6 +19,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Klaxit](https://www.klaxit.com/)
+covoiturage domicile-travail
+
+* [Data Analyst / Lead Data, alternance QA Engineer, Ruby Engineer](https://www.klaxit.com/nous-rejoindre)
+
+stack : Ruby (Rails ou Sinatra), PostgreSQL, Redis, RabbitMQ, Vue.js, Docker, AWS, Tableau...
+
+*offres répertoriées le 11/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
