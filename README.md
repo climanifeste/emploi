@@ -19,6 +19,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Comerso](https://comerso.fr/)
+valorisation des invendus des entreprises
+
+* [Développeur anti-gaspi, Technicien.ne informatique](https://comerso.fr/recrutement/)
+
+stack : C#, ReactJS, Android, Azure...
+
+*offres répertoriées le 11/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
