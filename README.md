@@ -30,6 +30,15 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 
 ---
 
+### [Zéro-Gâchis](https://zero-gachis.com/)
+réduction du gaspillage alimentaire
+
+* [Stage UX-UI Designer H/F](https://www.welcometothejungle.co/fr/companies/zero-gachis/jobs)
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ## Autres entreprises
 
 Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'avaient pas d'offre à pourvoir lors de notre dernière vérification. Si cela a changé, [cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour ajouter une offre en créant une pull request sur GitHub.
