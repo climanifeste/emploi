@@ -30,6 +30,17 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 
 ---
 
+### [Vendredi](https://vendredi.cc/)
+mécénat de compétences pour associations et start-up sociales
+
+* [Lead Dev Full Stack ](https://www.welcometothejungle.co/fr/companies/vendredi/jobs)
+
+stack : PHP, Laravel, JavaScript, Vue.js...
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ## Autres entreprises
 
 Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'avaient pas d'offre à pourvoir lors de notre dernière vérification. Si cela a changé, [cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour ajouter une offre en créant une pull request sur GitHub.
