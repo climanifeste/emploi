@@ -7,6 +7,7 @@
 Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour créer une pull request sur GitHub. 
 
 ---
+
 ### [Back Market](https://www.backmarket.fr/)
 vente en ligne de produits reconditionnés
 
@@ -35,8 +36,15 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'avaient pas d'offre à pourvoir lors de notre dernière vérification. Si cela a changé, [cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour ajouter une offre en créant une pull request sur GitHub.
 
 ---
-### [Yuka](https://www.welcometothejungle.co/fr/companies/yuka)
 
+### [Akuo Energy](http://www.akuoenergy.com/fr/)
+production d'énergie renouvelable
+
+* [Consulter la page emploi d'Akuo Energy](https://www.linkedin.com/jobs/search/?f_C=1024334)
+
+---
+
+### [Yuka](https://www.welcometothejungle.co/fr/companies/yuka)
 alimentation / santé 
 
 * [Consulter la page emploi de Yuka](https://www.welcometothejungle.co/fr/companies/yuka)
