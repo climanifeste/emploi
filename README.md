@@ -19,6 +19,15 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Greenweez](https://www.greenweez.com/)
+magasins bio en ligne
+
+* [Stage Web Marketing](https://www.greenweez.com/recrutement.html)
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
