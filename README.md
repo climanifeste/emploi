@@ -36,7 +36,7 @@ Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'av
 
 ---
 
-### [Sunibrain ](https://www.sunibrain.com/)
+### [SUNiBrain ](https://www.sunibrain.com/)
 refroidissement photovoltaïque
 
 * [Consulter la page emploi de Sunibrain](https://www.sunibrain.com/recrutement/)
