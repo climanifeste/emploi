@@ -37,7 +37,7 @@ efficacité énergétique et écoconduite
 
 stack : PHP7, MySQL, LAMP, Javascript, Angular JS, MongoDB, AWS
 
-offres répertoriées le 15/09/2019
+*offres répertoriées le 15/09/2019*
 
 ---
 
