@@ -19,6 +19,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Environnement Recycling](https://www.environnement-recycling.com/)
+recyclage des équipements électriques et électroniques
+
+* [Développeur informatique](https://www.environnement-recycling.com/category/emplois/)
+
+stack : Javascript, PHP, C#, mySQL, Semantic-UI
+
+*offre répertoriée le 16/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
