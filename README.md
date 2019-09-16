@@ -19,6 +19,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Deepki](https://www.deepki.com/)
+optimisation énergétique de parc immobilier
+
+* [Développeur(euse) Python, Data Miner](https://www.welcometothejungle.co/fr/companies/deepki/jobs)
+
+stack : Python, JS, VueJS, Ansible, Terraform
+
+*offres répertoriées le 16/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
