@@ -19,6 +19,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Babyloan](https://www.babyloan.org/fr/)
+Microcrédit solidaire à travers le monde
+
+* [Développeur.euse web front/Symfony](https://www.babyloan.org/fr/babyloan-recrutement)
+
+stack : JS, PHP, Symfony, REST, Drupal, Java, CQRS/ES...
+
+*offre répertoriée le 18/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
