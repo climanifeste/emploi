@@ -19,7 +19,7 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 ### [HelloAsso](https://www.helloasso.com/)
-solution de paiement aux associations
+solution de paiement en ligne dédiée aux associations
 
 * [Développeur .NET H/F, Développeur / Développeuse JS](https://www.welcometothejungle.co/fr/companies/helloasso/jobs)
 
