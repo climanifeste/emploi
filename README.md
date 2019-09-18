@@ -19,6 +19,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Goodeed](https://www.goodeed.com/)
+financement de projets solidaires
+
+* [Lead Developer - Fullstack JS, Stage Designer / Graphiste](https://goodeed.welcomekit.co/)
+
+stack : ES6, Typescript, Angular 1 et 7, NodeJs (Express, Loopback), MongoDb, Redis, Ionic, Cordova...
+
+*offres répertoriées le 18/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
