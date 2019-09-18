@@ -19,6 +19,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [Cityscoot](https://www.cityscoot.eu/)
+location de scooter électrique en libre service
+
+* [Agent de Support Technique, Développeur Dév OPS, Développeur Back PHP, Développeur Back .NET Core, Développeur Front](https://www.cityscoot.eu/on-recrute/)
+
+stack : .Net Core, NodeJS, React Native, React.js, Angular7, Vue.js, Symfony, RabbitMQ, MongoDB, Redis, Docker, Kubernetes...
+
+*offres répertoriées le 18/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
