@@ -18,6 +18,16 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 *Offres répertoriées le 11/09/2019*
 
 ---
+### [HelloAsso](https://www.helloasso.com/)
+solution de paiement aux associations
+
+* [Développeur .NET H/F, Développeur / Développeuse JS](https://www.welcometothejungle.co/fr/companies/helloasso/jobs)
+
+stack : C#, .NET MVC, T-SQL, JS, Vue, Azure...
+
+*offres répertoriées le 18/09/2019*
+
+---
 
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
