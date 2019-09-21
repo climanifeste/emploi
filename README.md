@@ -7,6 +7,29 @@
 Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour créer une pull request sur GitHub. 
 
 ---
+
+### [Agricool](https://agricool.co/)
+fruits et légumes sans pesticides
+
+* [Full Stack Software Developer](https://www.welcometothejungle.co/fr/companies/agricool/jobs)
+
+stack : AWS lambda, Node.js, Typescript, Golang, Postgres, Prometheus, Ionic, React...
+
+*Offre répertoriée le 11/09/2019*
+
+---
+
+### [Babyloan](https://www.babyloan.org/fr/)
+Microcrédit solidaire à travers le monde
+
+* [Développeur.euse web front/Symfony](https://www.babyloan.org/fr/babyloan-recrutement)
+
+stack : JS, PHP, Symfony, REST, Drupal, Java, CQRS/ES...
+
+*offre répertoriée le 18/09/2019*
+
+---
+
 ### [Back Market](https://www.backmarket.fr/)
 vente en ligne de produits reconditionnés
 
@@ -15,6 +38,17 @@ vente en ligne de produits reconditionnés
 stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go...
 
 *Offres répertoriées le 11/09/2019*
+
+---
+
+### [LITA.co](https://fr.lita.co/)
+investissement durable
+
+* [Développeur Ruby on Rails, Product Owner Junior - Stage de pré-embauche](https://lita-co.welcomekit.co/)
+
+stack : Ruby on Rails, Postgres, Javascript, Sidekiq, Redis...
+
+*offres répertoriées le 18/09/2019*
 
 ---
 
