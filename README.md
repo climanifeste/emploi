@@ -7,6 +7,17 @@
 Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour créer une pull request sur GitHub. 
 
 ---
+
+### [Agricool](https://agricool.co/)
+fruits et légumes sans pesticides
+
+* [Full Stack Software Developer](https://www.welcometothejungle.co/fr/companies/agricool/jobs)
+
+stack : AWS lambda, Node.js, Typescript, Golang, Postgres, Prometheus, Ionic, React
+
+*Offre répertoriée le 11/09/2019*
+
+---
 ### [Back Market](https://www.backmarket.fr/)
 vente en ligne de produits reconditionnés
 
