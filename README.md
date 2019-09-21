@@ -30,6 +30,17 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [LITA.co](https://fr.lita.co/)
+investissement durable
+
+* [Développeur Ruby on Rails, Product Owner Junior - Stage de pré-embauche](https://lita-co.welcomekit.co/)
+
+stack : Ruby on Rails, Postgres, Javascript, Sidekiq, Redis...
+
+*offres répertoriées le 18/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
