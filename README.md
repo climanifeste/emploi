@@ -13,9 +13,20 @@ fruits et légumes sans pesticides
 
 * [Full Stack Software Developer](https://www.welcometothejungle.co/fr/companies/agricool/jobs)
 
-stack : AWS lambda, Node.js, Typescript, Golang, Postgres, Prometheus, Ionic, React
+stack : AWS lambda, Node.js, Typescript, Golang, Postgres, Prometheus, Ionic, React...
 
 *Offre répertoriée le 11/09/2019*
+
+---
+
+### [Babyloan](https://www.babyloan.org/fr/)
+Microcrédit solidaire à travers le monde
+
+* [Développeur.euse web front/Symfony](https://www.babyloan.org/fr/babyloan-recrutement)
+
+stack : JS, PHP, Symfony, REST, Drupal, Java, CQRS/ES...
+
+*offre répertoriée le 18/09/2019*
 
 ---
 ### [Back Market](https://www.backmarket.fr/)
