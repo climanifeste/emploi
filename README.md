@@ -15,7 +15,7 @@ fruits et légumes sans pesticides
 
 stack : AWS lambda, Node.js, Typescript, Golang, Postgres, Prometheus, Ionic, React...
 
-*Offre répertoriée le 11/09/2019*
+*offre répertoriée le 11/09/2019*
 
 ---
 
@@ -37,7 +37,7 @@ vente en ligne de produits reconditionnés
 
 stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go...
 
-*Offres répertoriées le 11/09/2019*
+*offres répertoriées le 11/09/2019*
 
 ---
 ### [HelloAsso](https://www.helloasso.com/)
@@ -57,6 +57,7 @@ investissement durable
 * [Développeur Ruby on Rails, Product Owner Junior - Stage de pré-embauche](https://lita-co.welcomekit.co/)
 
 stack : Ruby on Rails, Postgres, Javascript, Sidekiq, Redis...
+
 *offres répertoriées le 18/09/2019*
 
 ---
@@ -90,7 +91,7 @@ alimentation / circuits courts
 
 stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architecture hexagonale...
 
-*Offres répertoriées le 11/09/2019*
+*offres répertoriées le 11/09/2019*
 
 ---
 
