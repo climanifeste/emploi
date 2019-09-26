@@ -40,6 +40,18 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 *offres répertoriées le 11/09/2019*
 
 ---
+
+### [Cityscoot](https://www.cityscoot.eu/)
+location de scooter électrique en libre service
+
+* [Agent de Support Technique, Développeur DevOps, Développeur Back PHP, Développeur Back .NET Core, Développeur Front](https://www.cityscoot.eu/on-recrute/)
+
+stack : .Net Core, NodeJS, React Native, React.js, Angular7, Vue.js, Symfony, RabbitMQ, MongoDB, Redis, Docker, Kubernetes...
+
+*offres répertoriées le 18/09/2019*
+
+---
+
 ### [HelloAsso](https://www.helloasso.com/)
 solution de paiement en ligne dédiée aux associations
 
@@ -79,17 +91,6 @@ gestion des forêts publiques
 * [Responsable informatique, Chef de projet AMOA, Spécialiste Systèmes, réseaux et sécurité, Pilote fonctionnel, Expert fonctionnel SAP, Responsable exploitation SAP, Ingénieur développement Business Object, Technicien informatique, support utilisateur, Ingénieur développement JAVA J2EE, Chef de projet MOE, Ingénieur développement mobilité, Ingénieur système environnement Microsoft-Citrix, Architecte technique - Analyste d'Exploitation Informatique, Technicien Géomatique](http://www1.onf.fr/carrieres/)
 
 stack : Java J2EE, Python, SQL, BO, SAP, Android...
-
-*offres répertoriées le 18/09/2019*
-
----
-
-### [Cityscoot](https://www.cityscoot.eu/)
-location de scooter électrique en libre service
-
-* [Agent de Support Technique, Développeur DevOps, Développeur Back PHP, Développeur Back .NET Core, Développeur Front](https://www.cityscoot.eu/on-recrute/)
-
-stack : .Net Core, NodeJS, React Native, React.js, Angular7, Vue.js, Symfony, RabbitMQ, MongoDB, Redis, Docker, Kubernetes...
 
 *offres répertoriées le 18/09/2019*
 
