@@ -96,6 +96,17 @@ stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 ---
 
+### [Biocoop](https://www.biocoop.fr/)
+magasins bio
+
+* [Concepteur développeur informatique H/F](https://www.biocoop.fr/Biocoop/recrutement/nos-offres-d-emplois?offer_type=biocoop_job_offer&contract_type=&direction=6066)
+
+stack : PHP, Symfony, Java, Spring Boot, SQL, Angular...
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
