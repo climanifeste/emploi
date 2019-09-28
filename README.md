@@ -74,6 +74,15 @@ stack : Python, JS, VueJS, Ansible, Terraform...
 
 ---
 
+### [Fluicity](https://get.flui.city/)
+engagement citoyen
+
+* [Stage/ Alternance - Graphic Designer](https://www.welcometothejungle.co/fr/companies/fluicity/jobs)
+
+*offre répertoriée le 15/09/2019*
+
+---
+
 ### [HelloAsso](https://www.helloasso.com/)
 solution de paiement en ligne dédiée aux associations
 
@@ -115,15 +124,6 @@ gestion des forêts publiques
 stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 *offres répertoriées le 18/09/2019*
-
----
-
-### [Fluicity](https://get.flui.city/)
-engagement citoyen
-
-* [Stage/ Alternance - Graphic Designer](https://www.welcometothejungle.co/fr/companies/fluicity/jobs)
-
-*offre répertoriée le 15/09/2019*
 
 ---
 
