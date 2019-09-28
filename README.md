@@ -125,6 +125,18 @@ stack : C#, .NET MVC, T-SQL, JS, Vue, Azure...
 
 ---
 
+### [INERIS](https://www.ineris.fr/fr)
+
+maîtrise des risques industriels et environnementaux
+
+[Alternance – Ingénieur en développement informatique H/F, Ingénieur d’étude et recherche Data science et modélisation de la qualité de l’air H/F](https://www.ineris.fr/fr/offres-d-emploi)
+
+stack : HTML, PHP, JavaScript et CSS, Fortan, Python, C++, R...
+
+*offres répertoriées le 11/09/2019*
+
+---
+
 ### [LITA.co](https://fr.lita.co/)
 investissement durable
 
@@ -155,18 +167,6 @@ gestion des forêts publiques
 stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 *offres répertoriées le 18/09/2019*
-
----
-
-### [INERIS](https://www.ineris.fr/fr)
-
-maîtrise des risques industriels et environnementaux
-
-[Alternance – Ingénieur en développement informatique H/F, Ingénieur d’étude et recherche Data science et modélisation de la qualité de l’air H/F](https://www.ineris.fr/fr/offres-d-emploi)
-
-stack : HTML, PHP, JavaScript et CSS, Fortan, Python, C++, R...
-
-*offres répertoriées le 11/09/2019*
 
 ---
 
