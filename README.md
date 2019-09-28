@@ -190,6 +190,15 @@ stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 ---
 
+### [PAPREC](https://www.paprec.com/fr)
+recyclage
+
+* [Ingénieur Exchange H/F, Responsable applicatif métier H/F, Technicien(ne) support informatique, Technicien(ne) système et réseaux](https://www.paprec.com/fr/groupe/ressources-humaines)
+
+*offre répertoriée le 15/09/2019*
+
+---
+
 ### [PayGreen](https://www.paygreen.io/)
 paiement en ligne à impact positif
 
@@ -198,15 +207,6 @@ paiement en ligne à impact positif
 stack : PHP, Symfony, ZF2, JavaScript, MySql, Docker, Kubernetes, GCP / AWS...
 
 *offres répertoriées le 11/09/2019*
-
----
-
-### [PAPREC](https://www.paprec.com/fr)
-recyclage
-
-* [Ingénieur Exchange H/F, Responsable applicatif métier H/F, Technicien(ne) support informatique, Technicien(ne) système et réseaux](https://www.paprec.com/fr/groupe/ressources-humaines)
-
-*offre répertoriée le 15/09/2019*
 
 ---
 
