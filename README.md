@@ -149,6 +149,15 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 
 ---
 
+### [Groupe SOS](http://www.groupe-sos.org/)
+accès au soin et à l'habitat
+
+* [Chef de projet AMOA](http://www.groupe-sos.org/rh/nous-rejoindre/offres/offres/emplois/129-127-128-130-133-132-131-144-175/selectGroupemplois/on/selectItememplois/129-127-128-130-133-132-131-144-175/)
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ## Autres entreprises
 
 Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'avaient pas d'offre à pourvoir lors de notre dernière vérification. Si cela a changé, [cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour ajouter une offre en créant une pull request sur GitHub.
