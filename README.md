@@ -63,6 +63,17 @@ stack : .Net Core, NodeJS, React Native, React.js, Angular7, Vue.js, Symfony, Ra
 
 ---
 
+### [Deepki](https://www.deepki.com/)
+optimisation énergétique de parc immobilier
+
+* [Développeur(euse) Python, Data Miner](https://www.welcometothejungle.co/fr/companies/deepki/jobs)
+
+stack : Python, JS, VueJS, Ansible, Terraform...
+
+*offres répertoriées le 16/09/2019*
+
+---
+
 ### [HelloAsso](https://www.helloasso.com/)
 solution de paiement en ligne dédiée aux associations
 
@@ -104,17 +115,6 @@ gestion des forêts publiques
 stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 *offres répertoriées le 18/09/2019*
-
----
-
-### [Deepki](https://www.deepki.com/)
-optimisation énergétique de parc immobilier
-
-* [Développeur(euse) Python, Data Miner](https://www.welcometothejungle.co/fr/companies/deepki/jobs)
-
-stack : Python, JS, VueJS, Ansible, Terraform
-
-*offres répertoriées le 16/09/2019*
 
 ---
 
