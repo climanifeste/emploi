@@ -129,9 +129,20 @@ stack : C#, .NET MVC, T-SQL, JS, Vue, Azure...
 
 maîtrise des risques industriels et environnementaux
 
-[Alternance – Ingénieur en développement informatique H/F, Ingénieur d’étude et recherche Data science et modélisation de la qualité de l’air H/F](https://www.ineris.fr/fr/offres-d-emploi)
+* [Alternance – Ingénieur en développement informatique H/F, Ingénieur d’étude et recherche Data science et modélisation de la qualité de l’air H/F](https://www.ineris.fr/fr/offres-d-emploi)
 
 stack : HTML, PHP, JavaScript et CSS, Fortan, Python, C++, R...
+
+*offres répertoriées le 11/09/2019*
+
+---
+
+### [Klaxit](https://www.klaxit.com/)
+covoiturage domicile-travail
+
+* [Data Analyst / Lead Data, alternance QA Engineer, Ruby Engineer](https://www.klaxit.com/nous-rejoindre)
+
+stack : Ruby (Rails ou Sinatra), PostgreSQL, Redis, RabbitMQ, Vue.js, Docker, AWS, Tableau...
 
 *offres répertoriées le 11/09/2019*
 
@@ -167,17 +178,6 @@ gestion des forêts publiques
 stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 *offres répertoriées le 18/09/2019*
-
----
-
-### [Klaxit](https://www.klaxit.com/)
-covoiturage domicile-travail
-
-* [Data Analyst / Lead Data, alternance QA Engineer, Ruby Engineer](https://www.klaxit.com/nous-rejoindre)
-
-stack : Ruby (Rails ou Sinatra), PostgreSQL, Redis, RabbitMQ, Vue.js, Docker, AWS, Tableau...
-
-*offres répertoriées le 11/09/2019*
 
 ---
 
