@@ -210,6 +210,17 @@ stack : PHP, Symfony, ZF2, JavaScript, MySql, Docker, Kubernetes, GCP / AWS...
 
 ---
 
+### [Environnement Recycling](https://www.environnement-recycling.com/)
+recyclage des équipements électriques et électroniques
+
+* [Développeur informatique](https://www.environnement-recycling.com/category/emplois/)
+
+stack : Javascript, PHP, C#, mySQL, Semantic-UI
+
+*offre répertoriée le 16/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
