@@ -147,6 +147,17 @@ stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 ---
 
+### [ecov](https://www.ecov.fr/)
+covoiturage spontané pour les trajets du quotidien
+
+* [Développeur.se Ruby, Développeur.se Front Mobile](https://www.welcometothejungle.co/fr/companies/ecov/jobs)
+
+stack : Ruby, Rails, React, React Native, GraphQL, Kubernetes, AMQP...
+
+*offres répertoriées le 11/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
