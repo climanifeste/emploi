@@ -252,6 +252,13 @@ banque
 
 ---
 
+### [Live for Good](https://live-for-good.org/fr/)
+accompagnement d'entrepreneurs à impact social
+
+* [Consulter la page emploi de Live for Good](http://www.fuyonsladefense.com/entreprise-qui-recrute/Live+for+Good)
+
+---
+
 ### [Yuka](https://www.welcometothejungle.co/fr/companies/yuka)
 alimentation / santé 
 
