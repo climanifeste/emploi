@@ -118,6 +118,15 @@ stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 ---
 
+### [Fluicity](https://get.flui.city/)
+engagement citoyen
+
+* [Stage/ Alternance - Graphic Designer](https://www.welcometothejungle.co/fr/companies/fluicity/jobs)
+
+*offre répertoriée le 15/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
