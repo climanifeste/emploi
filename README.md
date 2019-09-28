@@ -201,6 +201,15 @@ stack : PHP, Symfony, ZF2, JavaScript, MySql, Docker, Kubernetes, GCP / AWS...
 
 ---
 
+### [PAPREC](https://www.paprec.com/fr)
+recyclage
+
+* [Ingénieur Exchange H/F, Responsable applicatif métier H/F, Technicien(ne) support informatique, Technicien(ne) système et réseaux](https://www.paprec.com/fr/groupe/ressources-humaines)
+
+*offre répertoriée le 15/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
