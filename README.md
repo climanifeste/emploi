@@ -105,6 +105,15 @@ engagement citoyen
 
 ---
 
+### [Greenweez](https://www.greenweez.com/)
+magasins bio en ligne
+
+* [Stage Web Marketing](https://www.greenweez.com/recrutement.html)
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ### [Groupe SOS](http://www.groupe-sos.org/)
 accès au soin et à l'habitat
 
@@ -189,15 +198,6 @@ paiement en ligne à impact positif
 stack : PHP, Symfony, ZF2, JavaScript, MySql, Docker, Kubernetes, GCP / AWS...
 
 *offres répertoriées le 11/09/2019*
-
----
-
-### [Greenweez](https://www.greenweez.com/)
-magasins bio en ligne
-
-* [Stage Web Marketing](https://www.greenweez.com/recrutement.html)
-
-*offre répertoriée le 11/09/2019*
 
 ---
 
