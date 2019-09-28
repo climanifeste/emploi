@@ -96,6 +96,17 @@ stack : Ruby, Rails, React, React Native, GraphQL, Kubernetes, AMQP...
 
 ---
 
+### [Environnement Recycling](https://www.environnement-recycling.com/)
+recyclage des équipements électriques et électroniques
+
+* [Développeur informatique](https://www.environnement-recycling.com/category/emplois/)
+
+stack : Javascript, PHP, C#, mySQL, Semantic-UI
+
+*offre répertoriée le 16/09/2019*
+
+---
+
 ### [Fluicity](https://get.flui.city/)
 engagement citoyen
 
@@ -207,17 +218,6 @@ paiement en ligne à impact positif
 stack : PHP, Symfony, ZF2, JavaScript, MySql, Docker, Kubernetes, GCP / AWS...
 
 *offres répertoriées le 11/09/2019*
-
----
-
-### [Environnement Recycling](https://www.environnement-recycling.com/)
-recyclage des équipements électriques et électroniques
-
-* [Développeur informatique](https://www.environnement-recycling.com/category/emplois/)
-
-stack : Javascript, PHP, C#, mySQL, Semantic-UI
-
-*offre répertoriée le 16/09/2019*
 
 ---
 
