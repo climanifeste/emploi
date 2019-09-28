@@ -259,6 +259,13 @@ accompagnement d'entrepreneurs à impact social
 
 ---
 
+### [MyTroc.fr](https://mytroc.fr/)
+troc et consommation responsable
+
+* [Consulter la page emploi de MyTroc.fr](https://startuponly.com/company/MyTroc-17747/)
+
+---
+
 ### [Yuka](https://www.welcometothejungle.co/fr/companies/yuka)
 alimentation / santé 
 
