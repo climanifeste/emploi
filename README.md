@@ -232,6 +232,17 @@ réduction du gaspillage alimentaire
 
 ---
 
+### [Wenow](https://www.wenow.com/)
+efficacité énergétique et écoconduite
+
+* [Ingénieur développement full stack senior H/F, Ingénieur développement back-end H/F](https://www.wenow.com/recrutement/)
+
+stack : PHP7, MySQL, LAMP, Javascript, Angular JS, MongoDB, AWS
+
+*offres répertoriées le 15/09/2019*
+
+---
+
 ## Autres entreprises
 
 Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'avaient pas d'offre à pourvoir lors de notre dernière vérification. Si cela a changé, [cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour ajouter une offre en créant une pull request sur GitHub.
