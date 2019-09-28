@@ -158,6 +158,18 @@ stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 ---
 
+### [INERIS](https://www.ineris.fr/fr)
+
+maîtrise des risques industriels et environnementaux
+
+[Alternance – Ingénieur en développement informatique H/F, Ingénieur d’étude et recherche Data science et modélisation de la qualité de l’air H/F](https://www.ineris.fr/fr/offres-d-emploi)
+
+stack : HTML, PHP, JavaScript et CSS, Fortan, Python, C++, R...
+
+*offres répertoriées le 11/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
