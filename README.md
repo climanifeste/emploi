@@ -94,6 +94,15 @@ engagement citoyen
 
 ---
 
+### [Groupe SOS](http://www.groupe-sos.org/)
+accès au soin et à l'habitat
+
+* [Chef de projet AMOA](http://www.groupe-sos.org/rh/nous-rejoindre/offres/offres/emplois/129-127-128-130-133-132-131-144-175/selectGroupemplois/on/selectItememplois/129-127-128-130-133-132-131-144-175/)
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ### [HelloAsso](https://www.helloasso.com/)
 solution de paiement en ligne dédiée aux associations
 
@@ -146,15 +155,6 @@ alimentation / circuits courts
 stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architecture hexagonale...
 
 *offres répertoriées le 11/09/2019*
-
----
-
-### [Groupe SOS](http://www.groupe-sos.org/)
-accès au soin et à l'habitat
-
-* [Chef de projet AMOA](http://www.groupe-sos.org/rh/nous-rejoindre/offres/offres/emplois/129-127-128-130-133-132-131-144-175/selectGroupemplois/on/selectItememplois/129-127-128-130-133-132-131-144-175/)
-
-*offre répertoriée le 11/09/2019*
 
 ---
 
