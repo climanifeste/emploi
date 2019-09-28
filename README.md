@@ -223,15 +223,6 @@ stack : PHP, Laravel, JavaScript, Vue.js...
 
 ---
 
-### [Zéro-Gâchis](https://zero-gachis.com/)
-réduction du gaspillage alimentaire
-
-* [Stage UX-UI Designer H/F](https://www.welcometothejungle.co/fr/companies/zero-gachis/jobs)
-
-*offre répertoriée le 11/09/2019*
-
----
-
 ### [Wenow](https://www.wenow.com/)
 efficacité énergétique et écoconduite
 
@@ -240,6 +231,15 @@ efficacité énergétique et écoconduite
 stack : PHP7, MySQL, LAMP, Javascript, Angular JS, MongoDB, AWS
 
 *offres répertoriées le 15/09/2019*
+
+---
+
+### [Zéro-Gâchis](https://zero-gachis.com/)
+réduction du gaspillage alimentaire
+
+* [Stage UX-UI Designer H/F](https://www.welcometothejungle.co/fr/companies/zero-gachis/jobs)
+
+*offre répertoriée le 11/09/2019*
 
 ---
 
