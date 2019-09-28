@@ -63,6 +63,17 @@ stack : .Net Core, NodeJS, React Native, React.js, Angular7, Vue.js, Symfony, Ra
 
 ---
 
+### [Comerso](https://comerso.fr/)
+valorisation des invendus des entreprises
+
+* [Développeur anti-gaspi, Technicien.ne informatique](https://comerso.fr/recrutement/)
+
+stack : C#, ReactJS, Android, Azure...
+
+*offres répertoriées le 11/09/2019*
+
+---
+
 ### [Deepki](https://www.deepki.com/)
 optimisation énergétique de parc immobilier
 
@@ -124,17 +135,6 @@ gestion des forêts publiques
 stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 *offres répertoriées le 18/09/2019*
-
----
-
-### [Comerso](https://comerso.fr/)
-valorisation des invendus des entreprises
-
-* [Développeur anti-gaspi, Technicien.ne informatique](https://comerso.fr/recrutement/)
-
-stack : C#, ReactJS, Android, Azure...
-
-*offres répertoriées le 11/09/2019*
 
 ---
 
