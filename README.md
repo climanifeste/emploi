@@ -238,10 +238,17 @@ Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'av
 
 ---
 
+### [Akuo Energy](http://www.akuoenergy.com/fr/)
+production d'énergie renouvelable
+
+* [Consulter la page emploi d'Akuo Energy](https://www.linkedin.com/jobs/search/?f_C=1024334)
+
+---
+
 ### [Crédit Coopératif](https://www.credit-cooperatif.coop)
 banque
 
-* [Consulter les offres du Crédit Coopératif ](http://recrutement.credit-cooperatif.coop/)
+* [Consulter la page emploi du Crédit Coopératif ](http://recrutement.credit-cooperatif.coop/)
 
 ---
 
