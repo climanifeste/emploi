@@ -206,7 +206,7 @@ recyclage
 
 * [Ingénieur Exchange H/F, Responsable applicatif métier H/F, Technicien(ne) support informatique, Technicien(ne) système et réseaux](https://www.paprec.com/fr/groupe/ressources-humaines)
 
-*offre répertoriée le 15/09/2019*
+*offres répertoriées le 15/09/2019*
 
 ---
 
