@@ -263,6 +263,17 @@ réduction du gaspillage alimentaire
 
 ---
 
+### [dans ma culotte](https://dansmaculotte.com/)
+protections hygiéniques éthiques, saines et éco-responsables
+
+* [Dévelopeur·euse Fullstack](https://welovedevs.com/app/job/developeur-euse-fullstack-dans-ma-culotte)
+
+stack : PHP, Laravel, Vue.js, Nuxt.js, Postgres, Gitlab, Clever Cloud...
+
+*offre répertoriée le 30/09/2019*
+
+---
+
 ## Autres entreprises
 
 Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'avaient pas d'offre à pourvoir lors de notre dernière vérification. Si cela a changé, [cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour ajouter une offre en créant une pull request sur GitHub.
