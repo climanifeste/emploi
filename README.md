@@ -74,6 +74,17 @@ stack : C#, ReactJS, Android, Azure...
 
 ---
 
+### [dans ma culotte](https://dansmaculotte.com/)
+protections hygiéniques éthiques, saines et éco-responsables
+
+* [Dévelopeur·euse Fullstack](https://welovedevs.com/app/job/developeur-euse-fullstack-dans-ma-culotte)
+
+stack : PHP, Laravel, Vue.js, Nuxt.js, Postgres, Gitlab, Clever Cloud...
+
+*offre répertoriée le 30/09/2019*
+
+---
+
 ### [Deepki](https://www.deepki.com/)
 optimisation énergétique de parc immobilier
 
@@ -260,17 +271,6 @@ réduction du gaspillage alimentaire
 * [Stage UX-UI Designer H/F](https://www.welcometothejungle.co/fr/companies/zero-gachis/jobs)
 
 *offre répertoriée le 11/09/2019*
-
----
-
-### [dans ma culotte](https://dansmaculotte.com/)
-protections hygiéniques éthiques, saines et éco-responsables
-
-* [Dévelopeur·euse Fullstack](https://welovedevs.com/app/job/developeur-euse-fullstack-dans-ma-culotte)
-
-stack : PHP, Laravel, Vue.js, Nuxt.js, Postgres, Gitlab, Clever Cloud...
-
-*offre répertoriée le 30/09/2019*
 
 ---
 
