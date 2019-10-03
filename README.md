@@ -10,6 +10,15 @@ Une entreprise vous paraît ne pas avoir sa place dans cette liste ? [Créez une
 
 ---
 
+### AFD (Agence Française de Développement)
+transitions vers un monde plus juste et durable
+
+* [Senior Data Analyst, Administrateur.trice Métier Back Office, Responsable applicatif](https://afd.csod.com/ux/ats/careersite/5/home?c=afd&cfdd[0][id]=141&cfdd[0][options][0]=128&country=fr)
+
+*offres répertoriées le 03/10/2019*
+
+---
+
 ### [Agricool](https://agricool.co/)
 fruits et légumes sans pesticides
 
