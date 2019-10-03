@@ -6,6 +6,8 @@
 
 Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour créer une pull request sur GitHub. 
 
+Une entreprise vous paraît ne pas avoir sa place dans cette liste ? [Cliquez-ici](https://github.com/climanifeste/emploi/issues/new) pour créer une issue.
+
 ---
 
 ### [Agricool](https://agricool.co/)
