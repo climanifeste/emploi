@@ -191,6 +191,14 @@ stack : Ruby on Rails, Postgres, Javascript, Sidekiq, Redis...
 *offres répertoriées le 18/09/2019*
 
 ---
+### [Médecins du Monde](https://www.medecinsdumonde.org/fr)
+association médicale militante de solidarité internationale
+
+* [Chef de projet AMOA, Responsable d’unité études et développement informatique](https://www.medecinsdumonde.org/fr/recrutement/offres)
+
+*offres répertoriées le 03/10/2019*
+
+---
 
 ### [MiiMOSA](https://www.miimosa.com)
 financement participatif au service de l’agriculture et l’alimentation
