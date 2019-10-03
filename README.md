@@ -181,6 +181,17 @@ stack : Ruby (Rails ou Sinatra), PostgreSQL, Redis, RabbitMQ, Vue.js, Docker, AW
 
 ---
 
+### [Label Emmaüs](https://www.label-emmaus.co/fr/)
+e-shop militant
+
+* [Responsable Technique / Développeur FullStack Django & ReactJs](https://jobs.makesense.org/jobs/5d8bb9adab2df45ef1a8cd56)
+
+stack : Python, Javascript, API Rest, Django, ReactJs, MongoDb, ElasticSearch...
+
+*offre répertoriée le 03/10/2019*
+
+---
+
 ### [LITA.co](https://fr.lita.co/)
 investissement durable
 
