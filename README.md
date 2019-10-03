@@ -4,9 +4,9 @@
 
 ## Offres d'emploi
 
-Une offre d'emploi à proposer ? [Cliquez-ici](https://github.com/climanifeste/emploi/edit/master/README.md) pour créer une pull request sur GitHub. 
+Une offre d'emploi à proposer ? [Créez une pull request](https://github.com/climanifeste/emploi/edit/master/README.md) sur GitHub. 
 
-Une entreprise vous paraît ne pas avoir sa place dans cette liste ? [Cliquez-ici](https://github.com/climanifeste/emploi/issues/new) pour créer une issue.
+Une entreprise vous paraît ne pas avoir sa place dans cette liste ? [Créez une issue](https://github.com/climanifeste/emploi/issues/new) sur GitHub.
 
 ---
 
