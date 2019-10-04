@@ -245,6 +245,15 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 
 ---
 
+### [Sénova](http://www.senova.fr)
+transition écologique des bâtiments
+
+* [stage Chef de Projet (H/F) Innovation Numérique et Data, stage Développeur Site Web (H/F)](http://www.senova.fr/candidats-partenaires-rejoignez-nous-recrutement/)
+
+stack : Wordpress, HTML, CSS
+
+---
+
 ### [Vendredi](https://vendredi.cc/)
 mécénat de compétences pour associations et start-up sociales
 
