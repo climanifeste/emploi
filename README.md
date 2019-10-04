@@ -181,6 +181,17 @@ stack : Ruby (Rails ou Sinatra), PostgreSQL, Redis, RabbitMQ, Vue.js, Docker, AW
 
 ---
 
+### [Konexio](https://www.konexio.eu/)
+autonomie et solidarité par l'apprentissage numérique
+
+* [Assistant(e) formateur(trice) (Programme Code)](https://www.konexio.eu/assistante-formateurtrice-programme-code.html)
+
+stack : HTML/CSS, React, Redux, Express, MongoDB, MySQL...
+
+*offre répertoriée le 18/09/2019*
+
+---
+
 ### [LITA.co](https://fr.lita.co/)
 investissement durable
 
