@@ -245,6 +245,17 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 
 ---
 
+### [TRYON Environnement](https://www.tryon-environnement.com/)
+valorisation de biodéchets
+
+* [stage Développeur Full Stack](https://docs.wixstatic.com/ugd/1eefee_c25250109fd74458b0d117d2295fb424.pdf)
+
+stack : Python, Ruby, Go, Javascript, SQL, MongoDB...
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [Vendredi](https://vendredi.cc/)
 mécénat de compétences pour associations et start-up sociales
 
