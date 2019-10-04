@@ -214,6 +214,17 @@ stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 ---
 
+### [OKWind](http://www.okwind.fr/)
+fabricant de générateurs à énergies renouvelables & autoconsommation
+
+* [Développeur Python (H/F)](http://www.okwind.fr/recrutement.html)
+
+stack : Python, MariaDb, Rest, Docker, Linux...
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [PAPREC](https://www.paprec.com/fr)
 recyclage
 
