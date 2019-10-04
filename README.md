@@ -158,6 +158,17 @@ stack : C#, .NET MVC, T-SQL, JS, Vue, Azure...
 
 ---
 
+### [Ilek](https://www.ilek.fr/)
+fournisseur d'électricité verte et de gaz bio
+
+* [Chief Technology Officer / CTO / Directeur - trice Technique, Développeur - Développeuse - Back End Hero - Ruby](https://www.ilek.fr/jobs/)
+
+stack : Ruby On Rails, React JS, Postgresql, Heroku...
+
+*offres répertoriées le 04/10/2019*
+
+---
+
 ### [INERIS](https://www.ineris.fr/fr)
 
 maîtrise des risques industriels et environnementaux
