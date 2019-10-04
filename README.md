@@ -109,6 +109,17 @@ stack : Ruby, Rails, React, React Native, GraphQL, Kubernetes, AMQP...
 
 ---
 
+### [ekWateur](https://ekwateur.fr/)
+fournisseur d'électricité et de gaz vert
+
+* [Développeur.se PHP confirmé.e, Développeur.se REACT, Développeur.se JAVA confirmé.e, SRE - Site Reliability Engineer, Ingénieur DevSecOps - Cloud , Data Analyst, stage Chargé·e de communication et des réseaux sociaux](https://www.welcometothejungle.co/fr/companies/ekwateur/jobs)
+
+stack : Java 8, Spring, Hibernate, PHP 7, Symfony 4, Javascript, React, Redux, MongoDB, PostgreSQL, AWS, Kubernetes...
+
+*offres répertoriées le 04/10/2019*
+
+---
+
 ### [Environnement Recycling](https://www.environnement-recycling.com/)
 recyclage des équipements électriques et électroniques
 
