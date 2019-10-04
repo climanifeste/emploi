@@ -252,6 +252,8 @@ transition écologique des bâtiments
 
 stack : Wordpress, HTML, CSS
 
+*offres répertoriées le 04/10/2019*
+
 ---
 
 ### [Vendredi](https://vendredi.cc/)
