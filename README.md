@@ -54,6 +54,15 @@ stack : PHP, Symfony, Java, Spring Boot, SQL, Angular...
 
 ---
 
+### [CITEO](https://www.citeo.com/)
+recyclage des emballages ménagers et des papiers graphiques
+
+* [Ingénieur exploitation applicative F/H](https://www.linkedin.com/jobs/search/?currentJobId=1470021522&f_C=115121&locationId=OTHERS.worldwide)
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [Cityscoot](https://www.cityscoot.eu/)
 location de scooter électrique en libre service
 
