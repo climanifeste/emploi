@@ -43,6 +43,15 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [BeeBryte](https://beebryte.com/fr/bienvenue/)
+intelligence énergétique et automatisation
+
+* [Administrateur système & réseaux, Ingénieur informatique DevOps, stage Data Science](https://beebryte.com/fr/carriere/)
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [Biocoop](https://www.biocoop.fr/)
 magasins bio
 
