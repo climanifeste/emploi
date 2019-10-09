@@ -267,6 +267,17 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 
 ---
 
+### [Sun'R](https://sunr.fr/)
+photovoltaïque
+
+* [Ingénieur(e) logiciel – Développeur Full Stack (H/F)](https://sunr.fr/ingenieure-logiciel-developpeur-full-stack-h-f/)
+
+stack : Java, JavaScript, Go, Python, PostgreSQL
+
+*offre répertoriée le 09/10/2019*
+
+---
+
 ### [Vendredi](https://vendredi.cc/)
 mécénat de compétences pour associations et start-up sociales
 
