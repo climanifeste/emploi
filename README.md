@@ -234,6 +234,17 @@ stack : PHP, Symfony, ZF2, JavaScript, MySql, Docker, Kubernetes, GCP / AWS...
 
 ---
 
+### [RecycLivre](https://www.recyclivre.com/)
+vente et collecte de livres d'occasion
+
+* [Développeur(euse) PHP](https://www.recyclivre.com/blog/actualite-recyclivre/cdi-a-paris-une-developpeureuse-php/)
+
+stack : PHP, SQL, JS, Elasticsearch
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
