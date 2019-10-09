@@ -234,6 +234,17 @@ stack : PHP, Symfony, ZF2, JavaScript, MySql, Docker, Kubernetes, GCP / AWS...
 
 ---
 
+### [Phenix](https://wearephenix.com/)
+lutte contre le gaspillage des entreprises
+
+* [Développeur·se Fullstack, stage Chargé-e de Marketing digital](https://carrieres.candidatus.com/wearephenix)
+
+stack : PHP (version 5+), Symfony, MySQL, Javascript, React Native...
+
+*offres répertoriées le 04/10/2019*
+
+---
+
 ### [RecycLivre](https://www.recyclivre.com/)
 vente et collecte de livres d'occasion
 
