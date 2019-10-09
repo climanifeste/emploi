@@ -54,6 +54,17 @@ stack : PHP, Symfony, Java, Spring Boot, SQL, Angular...
 
 ---
 
+### [CB+](http://cb-plus.eu/)
+lutte contre le gaspillage alimentaire
+
+* [Lead Developer Backend, Stagiaire Développeur Mobile & Backend, Stagiaire UX / UI Designer](http://cb-plus.eu/nos-offres-candidat/)
+
+stack : REST, Flutter...
+
+*offres répertoriées le 09/10/2019*
+
+---
+
 ### [Cityscoot](https://www.cityscoot.eu/)
 location de scooter électrique en libre service
 
