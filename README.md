@@ -267,6 +267,17 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 
 ---
 
+### [Simplon.co](https://simplon.co/)
+formations numériques et inclusives
+
+* [formateur.ices](https://simplon.co/devenez-formateur-rice/), [Administrateur.ice Systèmes et Réseaux, Lead Développeur·se](https://www.welcometothejungle.co/fr/companies/simplon-co-1/jobs)
+
+stack : PHP (Laravel / Symfony), Javascript (React JS / NodeJS / React Native), CMS (Wordpress, Drupal) 
+
+*offres répertoriées le 09/10/2019*
+
+---
+
 ### [Vendredi](https://vendredi.cc/)
 mécénat de compétences pour associations et start-up sociales
 
