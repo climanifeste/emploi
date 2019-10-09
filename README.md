@@ -90,6 +90,17 @@ recyclage des emballages ménagers et des papiers graphiques
 
 ---
 
+### [Cap Collectif](https://www.cap-collectif.com/)
+plateforme d’intelligence collective
+
+* [Développeur Front-End, Développeur FullStack, DevOps](https://cap-collectif.com/jobs/)
+
+stack : PHP, Symfony, ReactJs, Relay, Graphql, Docker, RabbitMQ, Mysql, elasticsearch...
+
+*offres répertoriées le 09/10/2019*
+
+---
+
 ### [Cityscoot](https://www.cityscoot.eu/)
 location de scooter électrique en libre service
 
