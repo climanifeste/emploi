@@ -188,7 +188,7 @@ autonomie et solidarité par l'apprentissage numérique
 
 stack : HTML/CSS, React, Redux, Express, MongoDB, MySQL...
 
-*offre répertoriée le 18/09/2019*
+*offre répertoriée le 04/10/2019*
 
 ---
 
