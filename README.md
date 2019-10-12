@@ -10,6 +10,15 @@ Une entreprise vous paraît ne pas avoir sa place dans cette liste ? [Créez une
 
 ---
 
+### [AFD (Agence Française de Développement)](https://www.afd.fr/fr)
+transitions vers un monde plus juste et durable
+
+* [Senior Data Analyst, Administrateur.trice Métier Back Office, Responsable applicatif](https://afd.csod.com/ux/ats/careersite/5/home?c=afd&cfdd[0][id]=141&cfdd[0][options][0]=128&country=fr)
+
+*offres répertoriées le 03/10/2019*
+
+---
+
 ### [Agricool](https://agricool.co/)
 fruits et légumes sans pesticides
 
@@ -43,6 +52,15 @@ stack : AWS, RestFul API, Python, Django, VueJs, Algolia, NewRelic, Docker, Go..
 
 ---
 
+### [BeeBryte](https://beebryte.com/fr/bienvenue/)
+intelligence énergétique et automatisation
+
+* [Administrateur système & réseaux, Ingénieur informatique DevOps, stage Data Science](https://beebryte.com/fr/carriere/)
+
+*offres répertoriées le 04/10/2019*
+
+---
+
 ### [Biocoop](https://www.biocoop.fr/)
 magasins bio
 
@@ -51,6 +69,24 @@ magasins bio
 stack : PHP, Symfony, Java, Spring Boot, SQL, Angular...
 
 *offre répertoriée le 11/09/2019*
+
+---
+
+### [BOOSTHEAT](https://www.boostheat.fr/)
+chaudières thermodynamiques
+
+* [Administrateur systèmes & réseaux, alternant.e graphiste print & web](https://www.boostheat.fr/offres-demploi/)
+
+*offres répertoriées le 04/10/2019*
+
+---
+
+### [CITEO](https://www.citeo.com/)
+recyclage des emballages ménagers et des papiers graphiques
+
+* [Ingénieur exploitation applicative F/H](https://www.linkedin.com/jobs/search/?currentJobId=1470021522&f_C=115121&locationId=OTHERS.worldwide)
+
+*offre répertoriée le 04/10/2019*
 
 ---
 
@@ -109,6 +145,17 @@ stack : Ruby, Rails, React, React Native, GraphQL, Kubernetes, AMQP...
 
 ---
 
+### [ekWateur](https://ekwateur.fr/)
+fournisseur d'électricité et de gaz vert
+
+* [Développeur.se PHP confirmé.e, Développeur.se REACT, Développeur.se JAVA confirmé.e, SRE - Site Reliability Engineer, Ingénieur DevSecOps - Cloud , Data Analyst, stage Chargé·e de communication et des réseaux sociaux](https://www.welcometothejungle.co/fr/companies/ekwateur/jobs)
+
+stack : Java 8, Spring, Hibernate, PHP 7, Symfony 4, Javascript, React, Redux, MongoDB, PostgreSQL, AWS, Kubernetes...
+
+*offres répertoriées le 04/10/2019*
+
+---
+
 ### [Environnement Recycling](https://www.environnement-recycling.com/)
 recyclage des équipements électriques et électroniques
 
@@ -158,6 +205,17 @@ stack : C#, .NET MVC, T-SQL, JS, Vue, Azure...
 
 ---
 
+### [Ilek](https://www.ilek.fr/)
+fournisseur d'électricité verte et de gaz bio
+
+* [Chief Technology Officer / CTO / Directeur - trice Technique, Développeur - Développeuse - Back End Hero - Ruby](https://www.ilek.fr/jobs/)
+
+stack : Ruby On Rails, React JS, Postgresql, Heroku...
+
+*offres répertoriées le 04/10/2019*
+
+---
+
 ### [INERIS](https://www.ineris.fr/fr)
 
 maîtrise des risques industriels et environnementaux
@@ -188,7 +246,27 @@ autonomie et solidarité par l'apprentissage numérique
 
 stack : HTML/CSS, React, Redux, Express, MongoDB, MySQL...
 
+---
+
+### [Ideol](https://www.ideol-offshore.com/fr)
+éolien flottant
+
+* [Ingénieur Développement Logiciel Embarqué (H/F)](https://ideol.jobs.vocationcity.com/jobs/13691)
+
+stack : C/C++
+
 *offre répertoriée le 04/10/2019*
+
+---
+
+### [Label Emmaüs](https://www.label-emmaus.co/fr/)
+e-shop militant
+
+* [Responsable Technique / Développeur FullStack Django & ReactJs](https://jobs.makesense.org/jobs/5d8bb9adab2df45ef1a8cd56)
+
+stack : Python, Javascript, API Rest, Django, ReactJs, MongoDb, ElasticSearch...
+
+*offre répertoriée le 03/10/2019*
 
 ---
 
@@ -202,6 +280,14 @@ stack : Ruby on Rails, Postgres, Javascript, Sidekiq, Redis...
 *offres répertoriées le 18/09/2019*
 
 ---
+### [Médecins du Monde](https://www.medecinsdumonde.org/fr)
+association médicale militante de solidarité internationale
+
+* [Chef de projet AMOA, Responsable d’unité études et développement informatique](https://www.medecinsdumonde.org/fr/recrutement/offres)
+
+*offres répertoriées le 03/10/2019*
+
+---
 
 ### [MiiMOSA](https://www.miimosa.com)
 financement participatif au service de l’agriculture et l’alimentation
@@ -211,6 +297,15 @@ financement participatif au service de l’agriculture et l’alimentation
 stack : Ruby, Rails, Rspec, D3.js, CircleCI, Digital Ocean, AWS...
 
 *offre répertoriée le 18/09/2019*
+
+---
+
+### [Moustache Bikes](https://moustachebikes.com/)
+vélos électriques
+
+* [Administrateur web H/F](https://moustachebikes.com/wp-content/uploads/2019/05/fichejobadministrateurweb.pdf)
+
+*offre répertoriée le 04/10/2019*
 
 ---
 
@@ -245,6 +340,28 @@ stack : PHP, Symfony, ZF2, JavaScript, MySql, Docker, Kubernetes, GCP / AWS...
 
 ---
 
+### [Phenix](https://wearephenix.com/)
+lutte contre le gaspillage des entreprises
+
+* [Développeur·se Fullstack, stage Chargé-e de Marketing digital](https://carrieres.candidatus.com/wearephenix)
+
+stack : PHP (version 5+), Symfony, MySQL, Javascript, React Native...
+
+*offres répertoriées le 04/10/2019*
+
+---
+
+### [RecycLivre](https://www.recyclivre.com/)
+vente et collecte de livres d'occasion
+
+* [Développeur(euse) PHP](https://www.recyclivre.com/blog/actualite-recyclivre/cdi-a-paris-une-developpeureuse-php/)
+
+stack : PHP, SQL, JS, Elasticsearch
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
@@ -253,6 +370,17 @@ alimentation / circuits courts
 stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architecture hexagonale...
 
 *offres répertoriées le 11/09/2019*
+
+---
+
+### [TRYON Environnement](https://www.tryon-environnement.com/)
+valorisation de biodéchets
+
+* [stage Développeur Full Stack](https://docs.wixstatic.com/ugd/1eefee_c25250109fd74458b0d117d2295fb424.pdf)
+
+stack : Python, Ruby, Go, Javascript, SQL, MongoDB...
+
+*offre répertoriée le 04/10/2019*
 
 ---
 
