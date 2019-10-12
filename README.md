@@ -292,7 +292,7 @@ association médicale militante de solidarité internationale
 ### [M²](https://www.mcarre.fr/)
 lutte contre l’obsolescence programmée des ordinateurs
 
-* [stage Community manager, stage Designer graphiste, stage Développement, Animateur web]
+* [stage Community manager, stage Designer graphiste, stage Développement, stage Animateur web](https://www.mcarre.fr/recrutement/)
 
 *offres répertoriées le 04/10/2019*
 
