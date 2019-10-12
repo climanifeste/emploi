@@ -48,7 +48,7 @@ intelligence énergétique et automatisation
 
 * [Administrateur système & réseaux, Ingénieur informatique DevOps, stage Data Science](https://beebryte.com/fr/carriere/)
 
-*offre répertoriée le 04/10/2019*
+*offres répertoriées le 04/10/2019*
 
 ---
 
