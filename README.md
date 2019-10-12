@@ -373,6 +373,17 @@ stack : PHP, Symfony, PostgreSQL, ElasticSearch, React/Redux, Docker, architectu
 
 ---
 
+### [Sénova](http://www.senova.fr)
+transition écologique des bâtiments
+
+* [stage Chef de Projet (H/F) Innovation Numérique et Data, stage Développeur Site Web (H/F)](http://www.senova.fr/candidats-partenaires-rejoignez-nous-recrutement/)
+
+stack : Wordpress, HTML, CSS
+
+*offres répertoriées le 04/10/2019*
+
+---
+
 ### [TRYON Environnement](https://www.tryon-environnement.com/)
 valorisation de biodéchets
 
