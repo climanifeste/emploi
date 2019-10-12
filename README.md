@@ -208,6 +208,17 @@ stack : Ruby (Rails ou Sinatra), PostgreSQL, Redis, RabbitMQ, Vue.js, Docker, AW
 
 ---
 
+### [Ideol](https://www.ideol-offshore.com/fr)
+éolien flottant
+
+* [Ingénieur Développement Logiciel Embarqué (H/F)](https://ideol.jobs.vocationcity.com/jobs/13691)
+
+stack : C/C++
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [Label Emmaüs](https://www.label-emmaus.co/fr/)
 e-shop militant
 
