@@ -81,6 +81,17 @@ chaudières thermodynamiques
 
 ---
 
+### [Camif.fr](https://www.camif.fr/)
+ameublement local et durable
+
+* [Développeur Magento expérimenté (H/F)](https://www.linkedin.com/jobs/view/1550327875)
+
+stack : PHP, Magento, Symfony, Javascript, WebServices, Mysql...
+
+*offre répertoriée le 12/10/2019*
+
+---
+
 ### [CITEO](https://www.citeo.com/)
 recyclage des emballages ménagers et des papiers graphiques
 
