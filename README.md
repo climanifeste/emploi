@@ -289,6 +289,15 @@ association médicale militante de solidarité internationale
 
 ---
 
+### [M²](https://www.mcarre.fr/)
+lutte contre l’obsolescence programmée des ordinateurs
+
+* [stage Community manager, stage Designer graphiste, stage Développement, Animateur web]
+
+*offres répertoriées le 04/10/2019*
+
+---
+
 ### [MiiMOSA](https://www.miimosa.com)
 financement participatif au service de l’agriculture et l’alimentation
 
