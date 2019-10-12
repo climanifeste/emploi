@@ -260,6 +260,15 @@ stack : Ruby, Rails, Rspec, D3.js, CircleCI, Digital Ocean, AWS...
 
 ---
 
+### [Moustache Bikes](https://moustachebikes.com/)
+vélos électriques
+
+* [Administrateur web H/F](https://moustachebikes.com/wp-content/uploads/2019/05/fichejobadministrateurweb.pdf)
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [Office National des Forêts](https://www.onf.fr/)
 gestion des forêts publiques
 
