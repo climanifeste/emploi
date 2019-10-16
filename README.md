@@ -92,15 +92,6 @@ stack : PHP, Magento, Symfony, Javascript, WebServices, Mysql...
 
 ---
 
-### [CITEO](https://www.citeo.com/)
-recyclage des emballages ménagers et des papiers graphiques
-
-* [Ingénieur exploitation applicative F/H](https://www.linkedin.com/jobs/search/?currentJobId=1470021522&f_C=115121&locationId=OTHERS.worldwide)
-
-*offre répertoriée le 04/10/2019*
-
----
-
 ### [Cap Collectif](https://www.cap-collectif.com/)
 plateforme d’intelligence collective
 
@@ -109,6 +100,26 @@ plateforme d’intelligence collective
 stack : PHP, Symfony, ReactJs, Relay, Graphql, Docker, RabbitMQ, Mysql, elasticsearch...
 
 *offres répertoriées le 09/10/2019*
+
+---
+
+### [CB+](http://cb-plus.eu/)
+lutte contre le gaspillage alimentaire
+
+* [Lead Developer Backend, Stagiaire Développeur Mobile & Backend, Stagiaire UX / UI Designer](http://cb-plus.eu/nos-offres-candidat/)
+
+stack : REST, Flutter...
+
+*offres répertoriées le 09/10/2019*
+
+---
+
+### [CITEO](https://www.citeo.com/)
+recyclage des emballages ménagers et des papiers graphiques
+
+* [Ingénieur exploitation applicative F/H](https://www.linkedin.com/jobs/search/?currentJobId=1470021522&f_C=115121&locationId=OTHERS.worldwide)
+
+*offre répertoriée le 04/10/2019*
 
 ---
 
