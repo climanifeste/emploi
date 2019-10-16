@@ -145,6 +145,15 @@ stack : C#, ReactJS, Android, Azure...
 
 ---
 
+### [Coriance](https://www.groupe-coriance.fr/)
+énergies renouvelables (biomasse, géothermie) et de récupération
+
+* [Chef de projet assistance à maîtrise d'ouvrage (H/F)](https://www.groupe-coriance.fr/2019/09/04/chef-de-projet-assistance-a-maitrise-douvrage-h-f/)
+
+*offre répertoriée le 09/10/2019*
+
+---
+
 ### [dans ma culotte](https://dansmaculotte.com/)
 protections hygiéniques éthiques, saines et éco-responsables
 
