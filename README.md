@@ -435,6 +435,17 @@ stack : Wordpress, HTML, CSS
 
 ---
 
+### [Solinum](www.solinum.org/)
+projets numériques à fort impact dans le domaine de l’action sociale
+
+* [Développeur.se fullstack](https://jobs.makesense.org/jobs/5d810bbcab2df45ef1a8cbcd)
+
+stack : Mongo DB, Node.js, Angular 7, CSS3...
+
+*offre répertoriée le 09/10/2019*
+
+---
+
 ### [TRYON Environnement](https://www.tryon-environnement.com/)
 valorisation de biodéchets
 
