@@ -198,6 +198,15 @@ engagement citoyen
 
 ---
 
+### [GREENSPECTOR](https://greenspector.com/fr/)
+mesure de la consommation en énergie d'applications web, mobiles et IoT
+
+* [Testeur - automatisation / mesure](https://greenspector.com/fr/joinus/)
+
+*offre répertoriée le 09/10/2019*
+
+---
+
 ### [Greenweez](https://www.greenweez.com/)
 magasins bio en ligne
 
