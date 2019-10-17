@@ -380,6 +380,15 @@ stack : Ruby, Rails, Rspec, D3.js, CircleCI, Digital Ocean, AWS...
 
 ---
 
+### [Moustache Bikes](https://moustachebikes.com/)
+vélos électriques
+
+* [Administrateur web H/F](https://moustachebikes.com/wp-content/uploads/2019/05/fichejobadministrateurweb.pdf)
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [NOUS Ouvert Utile et Simple](https://avecnous.eu)
 Agence numérique engagée
 
@@ -388,15 +397,6 @@ Agence numérique engagée
 stack : PHP (WordPress, Symfony), JS (React, Jquery), MariaDB, PostGreSQL, ElasticSearch, Python...
 
 *offre répertoriée le 01/10/2019*
-
----
-
-### [Moustache Bikes](https://moustachebikes.com/)
-vélos électriques
-
-* [Administrateur web H/F](https://moustachebikes.com/wp-content/uploads/2019/05/fichejobadministrateurweb.pdf)
-
-*offre répertoriée le 04/10/2019*
 
 ---
 
