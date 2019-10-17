@@ -380,6 +380,17 @@ stack : Ruby, Rails, Rspec, D3.js, CircleCI, Digital Ocean, AWS...
 
 ---
 
+### [NOUS Ouvert Utile et Simple](https://avecnous.eu)
+Agence numérique engagée
+
+* [Developpeur⋅se Web Alternance H/F](https://avecnous.eu/utile/faire/)
+
+stack : PHP (WordPress, Symfony), JS (React, Jquery), MariaDB, PostGreSQL, ElasticSearch, Python...
+
+*offre répertoriée le 01/10/2019*
+
+---
+
 ### [Moustache Bikes](https://moustachebikes.com/)
 vélos électriques
 
