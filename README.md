@@ -218,6 +218,15 @@ engagement citoyen
 
 ---
 
+### [France Active](https://www.franceactive.org/)
+mouvement d’entrepreneurs engagés et finance solidaire
+
+* [Responsable infrastructures, exploitation et bureautique](https://www.franceactive.org/nos-offres-demplois/responsable-infrastructures-exploitation-et-bureautique/)
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [GREENSPECTOR](https://greenspector.com/fr/)
 mesure de la consommation en énergie d'applications web, mobiles et IoT
 
