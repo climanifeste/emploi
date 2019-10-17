@@ -256,6 +256,17 @@ stack : C#, .NET MVC, T-SQL, JS, Vue, Azure...
 
 ---
 
+### [Hydroption](http://hydroption.com/)
+fournisseur d'électricité verte pour entreprises et collectivités
+
+* [développeur informatique (F/H) ](http://hydroption.com/blog/category/offres-emploi-stage/)
+
+stack : Python, Django, Javascript, Ember.js...
+
+*offre répertoriée le 11/09/2019*
+
+---
+
 ### [Ilek](https://www.ilek.fr/)
 fournisseur d'électricité verte et de gaz bio
 
@@ -419,17 +430,6 @@ vente et collecte de livres d'occasion
 stack : PHP, SQL, JS, Elasticsearch
 
 *offre répertoriée le 04/10/2019*
-
----
-
-### [Hydroption](http://hydroption.com/)
-fournisseur d'électricité verte pour entreprises et collectivités
-
-* [développeur informatique (F/H) ](http://hydroption.com/blog/category/offres-emploi-stage/)
-
-stack : Python, Django, Javascript, Ember.js...
-
-*offre répertoriée le 11/09/2019*
 
 ---
 
