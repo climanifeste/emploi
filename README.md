@@ -433,6 +433,17 @@ stack : PHP, SQL, JS, Elasticsearch
 
 ---
 
+### [Qarnot](https://www.qarnot.com/)
+distributed cloud and rendering that heats smart buildings
+
+* [Administrateur systèmes et réseaux, Développeur C# Python, Ingénieur infrastructures distribuées](https://www.qarnot.com/fr/a-propos/)
+
+stack : C#, .Net, Python, REST, SQL, MongoDB, InfluxDB...
+
+*offres répertoriées le 11/09/2019*
+
+---
+
 ### [La Ruche qui dit Oui !](https://laruchequiditoui.fr)
 alimentation / circuits courts
 
