@@ -422,17 +422,6 @@ stack : PHP (version 5+), Symfony, MySQL, Javascript, React Native...
 
 ---
 
-### [RecycLivre](https://www.recyclivre.com/)
-vente et collecte de livres d'occasion
-
-* [Développeur(euse) PHP](https://www.recyclivre.com/blog/actualite-recyclivre/cdi-a-paris-une-developpeureuse-php/)
-
-stack : PHP, SQL, JS, Elasticsearch
-
-*offre répertoriée le 04/10/2019*
-
----
-
 ### [Qarnot](https://www.qarnot.com/)
 distributed cloud and rendering that heats smart buildings
 
@@ -441,6 +430,17 @@ distributed cloud and rendering that heats smart buildings
 stack : C#, .Net, Python, REST, SQL, MongoDB, InfluxDB...
 
 *offres répertoriées le 11/09/2019*
+
+---
+
+### [RecycLivre](https://www.recyclivre.com/)
+vente et collecte de livres d'occasion
+
+* [Développeur(euse) PHP](https://www.recyclivre.com/blog/actualite-recyclivre/cdi-a-paris-une-developpeureuse-php/)
+
+stack : PHP, SQL, JS, Elasticsearch
+
+*offre répertoriée le 04/10/2019*
 
 ---
 
