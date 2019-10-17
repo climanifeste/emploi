@@ -444,6 +444,17 @@ stack : Wordpress, HTML, CSS
 
 ---
 
+### [Simplon.co](https://simplon.co/)
+formations numériques et inclusives
+
+* [formateur.ices](https://simplon.co/devenez-formateur-rice/), [Administrateur.ice Systèmes et Réseaux, Lead Développeur·se](https://www.welcometothejungle.co/fr/companies/simplon-co-1/jobs)
+
+stack : PHP (Laravel / Symfony), Javascript (React JS / NodeJS / React Native), CMS (Wordpress, Drupal) 
+
+*offres répertoriées le 09/10/2019*
+
+---
+
 ### [Solinum](www.solinum.org/)
 projets numériques à fort impact dans le domaine de l’action sociale
 
