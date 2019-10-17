@@ -329,10 +329,10 @@ stack : Java J2EE, Python, SQL, BO, SAP, Android...
 
 ---
 
-### [OM Conseil](https://https://www.om-conseil.fr/)
+### [OM Conseil](https://www.om-conseil.fr/)
 Cabinet de conseil engagé
 
-* [Administrateur Systèmes et Réseaux, Technicien Systèmes et Réseaux, freelances(https://www.om-conseil.fr/recrutements/devenons-partenaires/)
+* [Administrateur Systèmes et Réseaux, Technicien Systèmes et Réseaux, freelances](https://www.om-conseil.fr/recrutements/devenons-partenaires/)
 
 *offres répertoriées le 15/10/2019*
 
