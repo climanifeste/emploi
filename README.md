@@ -209,6 +209,17 @@ stack : Javascript, PHP, C#, mySQL, Semantic-UI
 
 ---
 
+### [Épices](http://www.epices-energie.fr/)
+plateforme web de supervision et de gestion d'installations EnR
+
+* [Développeur-se Fullstack](http://www.hespul.org/wp-content/uploads/2019/09/2_fiches-_poste_epices_dev_fullstack.pdf)
+
+stack : Ruby/RubyOnRails, PostgreSQL, Javascript...
+
+*offre répertoriée le 18/10/2019*
+
+---
+
 ### [Fluicity](https://get.flui.city/)
 engagement citoyen
 
