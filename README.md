@@ -539,6 +539,15 @@ stack : Mongo DB, Node.js, Angular 7, CSS3...
 
 ---
 
+### [Sun'R](https://sunr.fr/)
+photovoltaïque
+
+* [Ingénieur(e) logiciel – Développeur Full Stack (H/F)](https://sunr.fr/ingenieure-logiciel-developpeur-full-stack-h-f/)
+
+stack : Java, JavaScript, Go, Python, PostgreSQL
+
+---
+
 ### [TRYON Environnement](https://www.tryon-environnement.com/)
 valorisation de biodéchets
 
