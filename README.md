@@ -561,6 +561,15 @@ stack : PHP, Laravel, JavaScript, Vue.js...
 
 ---
 
+### [VSB Energies nouvelles](https://vsb-energies.fr/)
+énergies renouvelables
+
+* [Responsable informatique H/F](http://vsb-energies.fr/storage/jobs/attachments/1567589886.pdf)
+
+*offre répertoriée le 04/10/2019*
+
+---
+
 ### [Wenow](https://www.wenow.com/)
 efficacité énergétique et écoconduite
 
