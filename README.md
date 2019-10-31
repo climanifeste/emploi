@@ -123,17 +123,6 @@ recyclage des emballages ménagers et des papiers graphiques
 
 ---
 
-### [Cityscoot](https://www.cityscoot.eu/)
-location de scooter électrique en libre service
-
-* [Agent de Support Technique, Développeur DevOps, Développeur Back PHP, Développeur Back .NET Core, Développeur Front](https://www.cityscoot.eu/on-recrute/)
-
-stack : .Net Core, NodeJS, React Native, React.js, Angular7, Vue.js, Symfony, RabbitMQ, MongoDB, Redis, Docker, Kubernetes...
-
-*offres répertoriées le 18/09/2019*
-
----
-
 ### [Comerso](https://comerso.fr/)
 valorisation des invendus des entreprises
 
