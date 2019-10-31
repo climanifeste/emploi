@@ -154,6 +154,17 @@ stack : C#, ReactJS, Android, Azure...
 
 ---
 
+### [CrushON](https://crushonapp.com/)
+vêtements de seconde-main
+
+* [Chief Technology Officer (CTO)](https://jobs.makesense.org/jobs/5db9fcbae30ba00454226e3c)
+
+stack : PHP, JavaScript, React...
+
+*offre répertoriée le 31/10/2019*
+
+---
+
 ### [dans ma culotte](https://dansmaculotte.com/)
 protections hygiéniques éthiques, saines et éco-responsables
 
