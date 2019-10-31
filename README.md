@@ -198,6 +198,15 @@ stack : Java 8, Spring, Hibernate, PHP 7, Symfony 4, Javascript, React, Redux, M
 
 ---
 
+### [Energisme](https://energisme.com/fr/)
+intelligence énergétique
+
+* [Administrateur Réseaux, Systèmes Informatiques et IoT H/F](https://energisme.com/fr/administrateur-reseaux-systemes-informatiques-et-iot-h-f/)
+
+*offre répertoriée le 09/10/2019*
+
+---
+
 ### [Environnement Recycling](https://www.environnement-recycling.com/)
 recyclage des équipements électriques et électroniques
 
