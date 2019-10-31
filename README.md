@@ -154,6 +154,15 @@ stack : C#, ReactJS, Android, Azure...
 
 ---
 
+### [Cyclo Power Factory](https://cyclopowerfactory.com/)
+équipements sportifs producteurs d'électricité
+
+* [stagiaire Chef.fe de Projet](https://jobs.makesense.org/jobs/5db86abcdbcbc604107066cc)
+
+*offre répertoriée le 31/10/2019*
+
+---
+
 ### [dans ma culotte](https://dansmaculotte.com/)
 protections hygiéniques éthiques, saines et éco-responsables
 
