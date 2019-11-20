@@ -651,6 +651,8 @@ Les premières entreprises répertoriées proviennent du fichier [262 entreprise
 
 Vous trouverez également d'autres offres d'emploi à vocation écologique ou sociale sur les sites suivants :
 
+* [Tech for Good Jobs](https://www.latitudes.cc/tech-for-good-jobs)
+* [ITmakeSense](https://www.itmakesense.io)
 * [Makesense](https://jobs.makesense.org/)
 * [beta.gouv.fr](https://beta.gouv.fr/recrutement/)
 
