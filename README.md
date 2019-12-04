@@ -146,7 +146,7 @@ stack : C#, ReactJS, Android, Azure...
 ### [Crédit Coopératif](https://www.credit-cooperatif.coop)
 banque
 
-* [Concepteur Développeur confirmé h/f](http://recrutement.credit-cooperatif.coop/offre?id=3789121), [Chargé d'études Référentiel SI h/f (DOSI)](http://recrutement.credit-cooperatif.coop/offre?id=3788320)
+* [Concepteur Développeur confirmé h/f](http://recrutement.credit-cooperatif.coop/offre?id=3789121), [Chargé d'études Référentiel SI h/f](http://recrutement.credit-cooperatif.coop/offre?id=3788320)
 
 stack : JAVA/JEE, MYSQL
 
