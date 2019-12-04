@@ -566,6 +566,17 @@ stack : Python, Ruby, Go, Javascript, SQL, MongoDB...
 
 ---
 
+### [Upcyclea](https://www.upcyclea.com/)
+économie circulaire
+
+* [stage Testeur, Développeur Front-end](https://upcyclea-1.welcomekit.co/)
+
+stack : Typescript, Angular, Jasmine, Karma...
+
+*offres répertoriées le 31/10/2019*
+
+---
+
 ### [Vendredi](https://vendredi.cc/)
 mécénat de compétences pour associations et start-up sociales
 
