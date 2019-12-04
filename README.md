@@ -143,6 +143,17 @@ stack : C#, ReactJS, Android, Azure...
 
 ---
 
+### [Crédit Coopératif](https://www.credit-cooperatif.coop)
+banque
+
+* [Concepteur Développeur confirmé h/f](http://recrutement.credit-cooperatif.coop/offre?id=3789121), [Chargé d'études Référentiel SI h/f (DOSI)](http://recrutement.credit-cooperatif.coop/offre?id=3788320)
+
+stack : JAVA/JEE, MYSQL
+
+*offres répertoriées le 02/12/2019*
+
+---
+
 ### [CrushON](https://crushonapp.com/)
 vêtements de seconde-main
 
@@ -638,13 +649,6 @@ Les entreprises ci-dessous recrutent également des informaticien.ne.s mais n'av
 production d'énergie renouvelable
 
 * [Consulter la page emploi d'Akuo Energy](https://www.linkedin.com/jobs/search/?f_C=1024334)
-
----
-
-### [Crédit Coopératif](https://www.credit-cooperatif.coop)
-banque
-
-* [Consulter la page emploi du Crédit Coopératif ](http://recrutement.credit-cooperatif.coop/)
 
 ---
 
