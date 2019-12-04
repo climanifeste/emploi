@@ -123,17 +123,6 @@ recyclage des emballages ménagers et des papiers graphiques
 
 ---
 
-### [Cityscoot](https://www.cityscoot.eu/)
-location de scooter électrique en libre service
-
-* [Agent de Support Technique, Développeur DevOps, Développeur Back PHP, Développeur Back .NET Core, Développeur Front](https://www.cityscoot.eu/on-recrute/)
-
-stack : .Net Core, NodeJS, React Native, React.js, Angular7, Vue.js, Symfony, RabbitMQ, MongoDB, Redis, Docker, Kubernetes...
-
-*offres répertoriées le 18/09/2019*
-
----
-
 ### [Comerso](https://comerso.fr/)
 valorisation des invendus des entreprises
 
@@ -160,6 +149,15 @@ vêtements de seconde-main
 * [Chief Technology Officer (CTO)](https://jobs.makesense.org/jobs/5db9fcbae30ba00454226e3c)
 
 stack : PHP, JavaScript, React...
+
+*offres répertoriées le 31/10/2019*
+
+---
+
+### [Cyclo Power Factory](https://cyclopowerfactory.com/)
+équipements sportifs producteurs d'électricité
+
+* [stagiaire Chef.fe de Projet](https://jobs.makesense.org/jobs/5db86abcdbcbc604107066cc)
 
 *offre répertoriée le 31/10/2019*
 
@@ -579,6 +577,17 @@ stack : Python, Ruby, Go, Javascript, SQL, MongoDB...
 
 ---
 
+### [Upcyclea](https://www.upcyclea.com/)
+économie circulaire
+
+* [stage Testeur, Développeur Front-end](https://upcyclea-1.welcomekit.co/)
+
+stack : Typescript, Angular, Jasmine, Karma...
+
+*offres répertoriées le 31/10/2019*
+
+---
+
 ### [Vendredi](https://vendredi.cc/)
 mécénat de compétences pour associations et start-up sociales
 
@@ -673,6 +682,8 @@ Les premières entreprises répertoriées proviennent du fichier [262 entreprise
 
 Vous trouverez également d'autres offres d'emploi à vocation écologique ou sociale sur les sites suivants :
 
+* [Tech for Good Jobs](https://www.latitudes.cc/tech-for-good-jobs)
+* [ITmakeSense](https://www.itmakesense.io)
 * [Makesense](https://jobs.makesense.org/)
 * [beta.gouv.fr](https://beta.gouv.fr/recrutement/)
 
