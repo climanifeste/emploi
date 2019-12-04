@@ -143,6 +143,17 @@ stack : C#, ReactJS, Android, Azure...
 
 ---
 
+### [CrushON](https://crushonapp.com/)
+vêtements de seconde-main
+
+* [Chief Technology Officer (CTO)](https://jobs.makesense.org/jobs/5db9fcbae30ba00454226e3c)
+
+stack : PHP, JavaScript, React...
+
+*offres répertoriées le 31/10/2019*
+
+---
+
 ### [Cyclo Power Factory](https://cyclopowerfactory.com/)
 équipements sportifs producteurs d'électricité
 
