@@ -110,7 +110,7 @@ lutte contre le gaspillage alimentaire
 
 stack : REST, Flutter...
 
-*offres répertoriées le 09/10/2019*
+*offres répertoriées le 06/12/2019*
 
 ---
 
