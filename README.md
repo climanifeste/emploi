@@ -9,7 +9,6 @@ Une offre d'emploi à proposer ? [Créez une pull request](https://github.com/cl
 Une entreprise vous paraît ne pas avoir sa place dans cette liste ? [Créez une issue](https://github.com/climanifeste/emploi/issues/new) sur GitHub.
 
 ---
-
 ### [AFD (Agence Française de Développement)](https://www.afd.fr/fr)
 transitions vers un monde plus juste et durable
 
@@ -454,7 +453,7 @@ stack : Python, MariaDb, Rest, Docker, Linux...
 ### [OM Conseil](https://www.om-conseil.fr/)
 Cabinet de conseil engagé
 
-* [Adminsistrateur Systèmes et Réseau CDI réseau](https://www.om-conseil.fr/recrutements-offres-demploi-administrateur-ingenieur/), [Technicien Systèmes et Réseaux, freelances](https://www.om-conseil.fr/recrutements/devenons-partenaires/)
+* [Adminsistrateur Systèmes et Réseaux CDI](https://www.om-conseil.fr/recrutements-offres-demploi-administrateur-ingenieur/), [Technicien Systèmes et Réseaux, freelances](https://www.om-conseil.fr/recrutements/devenons-partenaires/)
 
 *offres répertoriées le 18/12/2019*
 
