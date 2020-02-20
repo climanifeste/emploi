@@ -9,14 +9,6 @@ Une offre d'emploi à proposer ? [Créez une pull request](https://github.com/cl
 Une entreprise vous paraît ne pas avoir sa place dans cette liste ? [Créez une issue](https://github.com/climanifeste/emploi/issues/new) sur GitHub.
 
 ---
-### [Enercoop](https://www.enercoop.fr)
-Fournisseur coopératif d'électricité 100% renouvelable
-
-* [Développeur·euse Java Confirmé·e en CDI](https://www.enercoop.fr/sites/default/files/enercoop_developpeureuse_java_confirmee_fevrier_2020.pdf)
-
-*offre répertoriée le 18/02/2020*
-
----
 ### [AFD (Agence Française de Développement)](https://www.afd.fr/fr)
 transitions vers un monde plus juste et durable
 
@@ -211,6 +203,14 @@ fournisseur d'électricité et de gaz vert
 stack : Java 8, Spring, Hibernate, PHP 7, Symfony 4, Javascript, React, Redux, MongoDB, PostgreSQL, AWS, Kubernetes...
 
 *offres répertoriées le 04/10/2019*
+
+---
+### [Enercoop](https://www.enercoop.fr)
+Fournisseur coopératif d'électricité 100% renouvelable
+
+* [Développeur·euse Java Confirmé·e en CDI](https://www.enercoop.fr/sites/default/files/enercoop_developpeureuse_java_confirmee_fevrier_2020.pdf)
+
+*offre répertoriée le 18/02/2020*
 
 ---
 
